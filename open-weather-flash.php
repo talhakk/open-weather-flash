@@ -7,7 +7,7 @@ Author: Talha Rasheed Khan
 Author URI: https://wordpressflash.com/
 Text Domain: open-weather-flash
 */
-//aa32b4fd1114d2faa5ab83b23fa4f1c0
+
 // Prevent direct access to this file
 if ( ! defined( 'ABSPATH' ) ) {
     exit; // Exit if accessed directly
